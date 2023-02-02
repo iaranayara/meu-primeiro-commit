@@ -3,3 +3,4 @@ Enviando arquivo de texto para o Github.
 2. criar button
 3. alterar cor de fonte
 4. criar background
+5. adicionar contactos
